@@ -2,6 +2,9 @@
 
 I'm currently working at LGS, IBM as a software developer in Canada.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutphi&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nutphi&theme=dark&hide_border=false"/>
+
 ## Personal Projects
 
 - https://phichitsakuldes.com/#projects
