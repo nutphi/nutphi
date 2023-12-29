@@ -9,14 +9,6 @@ I'm currently working at LGS, IBM as a software developer in Canada.
 
 - https://phichitsakuldes.com/#projects
 
-## Technical Skills
-
-- https://phichitsakuldes.com/#skills
-
-## Work Experience
-
-- https://phichitsakuldes.com/#experience
-
 <!--
 **nutphi/nutphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
