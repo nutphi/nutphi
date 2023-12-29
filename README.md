@@ -8,7 +8,7 @@ I'm currently working at LGS, IBM as a software developer in Canada.
 
 ## Technical Skills
 
-- https://phichitsakuldes.com/#experience
+- https://phichitsakuldes.com/#skills
 
 ## Work Experience
 
